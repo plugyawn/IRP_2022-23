@@ -1,0 +1,10 @@
+Project Name
+Company Name
+Sector/Domain
+Description
+Faculty Point of contact
+Student point of contact
+Students assigned to project (after projects are assigned)
+Comments after check 1
+Comments after check 2
+Comments after check 3

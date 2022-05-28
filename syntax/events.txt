@@ -1,0 +1,6 @@
+Name of the event
+Description
+Date on which it occured
+Any image/poster about the event (if any)
+Total number of participants
+Insights/comments
