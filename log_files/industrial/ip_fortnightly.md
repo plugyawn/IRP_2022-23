@@ -3,10 +3,10 @@
 
  - [ ] Emails to partners contacted in the past.
       - [x] Members assigned companies.
-      - [ ] Teach new members how to write emaild drafts.
+      - [x] Teach new members how to write emaild drafts.
       - [ ] Start emailing process.
  - [ ] Emails to new partners.
-      - [ ] Databasing started.
+      - [x] Databasing started.
       - [ ] Emailing started.
       - [ ] Calling started.
  - [ ] Tracking contacted partners.
