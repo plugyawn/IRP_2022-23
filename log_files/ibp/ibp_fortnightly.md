@@ -4,8 +4,8 @@
 
  - [ ] Ideas to send to professors
       - [x] Collect IBP project ideas from members.
-      - [ ] Collect IBP project ideas from IITGN Community.
-      - [ ] Shortlist Project ideas from sheet.
+      - [x] Collect IBP project ideas from IITGN Community.
+      - [x] Shortlist Project ideas from sheet.
       - [ ] Tell members to start mailing the professors.
  - [ ] Ideas to collect from professors
       - [ ] Databasing started.
