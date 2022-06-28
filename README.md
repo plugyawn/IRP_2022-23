@@ -1,6 +1,6 @@
 ## Welcome to the official logs of the Industrial Relations and Projects Council IIT Gandhinagar 2022-23!
 
-The team selected for this year is as follows:
+The team selected for this year is as follows: 
 
 | Name                    | Position                                |
 | ----------------------- | --------------------------------------- |
