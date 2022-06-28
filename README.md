@@ -2,22 +2,22 @@
 
 The team selected for this year is as follows: 
 
-| Name                    | Position                                |
-| ----------------------- | --------------------------------------- |
-| Dhakad Bhagat Singh     | General Member                          |
-| Siddharth Shah          | General Member                          |
-| Adit Rambhia            | General Member                          |
-| Balgopal Moharana       | General Member                          |
-| Anuj Ujjval Buch        | General Member                          |
-| Sheetika Kothari        | General Member                          |
-| Gaurav Kumar Rawat      | General Member                          |
-| Parth Deshpande         | General Member                          |
-| Srujan Kumar Shetty     | General Member                          |
-| Hrishikesh Sachin Birje | General Member                          |
-| Shikhar Agrawal         | General Member                          |
-| Eesha Kulkarni          | General Member                          |
-| Darsh Dalal             | General Member                          |
-| Progyan Das             | Industrial Projects Coordinator         |
-| Haikoo Ashok Khandor    | Institute Building Projects Coordinator |
-| R Yeeshu Dhurandhar     | Events Coordinator                      |
-| Gautam Vashishtha       | IR&P Secretary                          |
+| Name                    | Position                                | Contacts                  |
+| ----------------------- | --------------------------------------- | --------------------------
+| Dhakad Bhagat Singh     | General Member                          | dhakad.bhagat@iitgn.ac.in |
+| Siddharth Shah          | General Member                          | shah.siddharth@iitgn.ac.in|
+| Adit Rambhia            | General Member                          | rambhia.adit@iitgn.ac.in
+| Balgopal Moharana       | General Member                          | moharanabalgopal@iitgn.ac.in
+| Anuj Ujjval Buch        | General Member                          | anuj.buch@iitgn.ac.in
+| Sheetika Kothari        | General Member                          | kotharisheetika@iitgn.ac.in
+| Gaurav Kumar Rawat      | General Member                          | rawatgaurav@iitgn.ac.in
+| Parth Deshpande         | General Member                          | deshpandeparth@iitgn.ac.in
+| Srujan Kumar Shetty     | General Member                          | shettyshrujan@iitgn.ac.in
+| Hrishikesh Sachin Birje | General Member                          | hrishikeshbirje@iitgn.ac.in
+| Shikhar Agrawal         | General Member                          | shikhar.agrawal@iitgn.ac.in
+| Eesha Kulkarni          | General Member                          | eesha.kulkarni@iitgn.ac.in
+| Darsh Dalal             | General Member                          | dalaldarsh@iitgn.ac.in
+| Progyan Das             | Industrial Projects Coordinator         | progyan.das@iitgn.ac.in
+| Haikoo Ashok Khandor    | Institute Building Projects Coordinator | haikoo.khandor@iitgn.ac.in
+| R Yeeshu Dhurandhar     | Events Coordinator                      | r.yeeshu@iitgn.ac.in
+| Gautam Vashishtha       | IR&P Secretary                          | gautam.pv@iitgn.ac.in
