@@ -14,4 +14,12 @@ Talk with Polymateria is in progress.
 
 TODO:
 * [x] Discussion of events ideas with whole team and work deligation for individual event ideas
-* [ ] Taking updates on individual level for the assigned events ideas.
+* [x] Taking updates on individual level for the assigned events ideas.
+
+---
+# Fortnight 3, July 1 - July 15, 2022
+
+TODO:
+* [ ] An event in collaboration with Chingari to understand Web3, management skills required in the industry, journey of a startup and how to make a brand. Unfortunately, health of main speaker was not good, and we had to postpone the event.
+
+---
