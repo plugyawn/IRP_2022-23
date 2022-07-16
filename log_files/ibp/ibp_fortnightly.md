@@ -18,4 +18,10 @@
            - Get confirmed projects soon.
       - [ ] Work actually done <br />
            - Shortlist Project Ideas.
-           
+  - [ ] 15th July - 31st July
+      - [ ] Work that had to be done <br />
+           - Get confirmed projects soon.
+      - [ ] Work actually done <br />
+           - Tell members to start mailing.
+           - Databasing to mail professors.
+           - Start emailing.
