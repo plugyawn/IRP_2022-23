@@ -14,3 +14,9 @@
  # Confirmed Projects
  
  Will be updated as projects started getting confirmed.
+- JK Lakshmi
+- Requestly
+- Eficens
+- SuperShare
+- Pratilipi
+- Mudrex?
